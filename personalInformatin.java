@@ -9,15 +9,13 @@ package exercises;
  *
  * @author Nilima M
  */
-public class nameAgeAnnualIncome {
+public class personalInformatin {
     public static void main(String[] args)
     {
-        String name="Joe Mahoney";
-        int age=26;
-        double annualPay=100000.0;
-        System.out.println("My name is "+ name + ", my age is "
-        + age + " and I hope to earn $"+ annualPay+ " per year.");
-        
+        System.out.println("Name is : Naomi\n"
+                + "Address is : 1055 W catalpa ave, Chicago, IL, 60640\n"
+                + "The telephone number is  : 7734445555\n"+
+                "College Major: Psychology");
     }
     
 }
